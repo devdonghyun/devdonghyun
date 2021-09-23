@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Donghyun%20An&fontSize=80&animation=fadeIn&fontAlign=60&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Donghyun%20An&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=50)
 
 <p align="center"> 
   <h2 align="center"> 🛠  Technology Stack 🛠  <h2/>
